@@ -1,6 +1,13 @@
 # MYcode
 This is a virtual assistant program which is simliar to google assistant.The virtual assistant name is Jarvis.
 
+Requirenment to make it run:
+1. Install latest version python
+2. Install speech recognition (open cmd and type "pip install SpeechRecognition")
+3. Install pyttsx3 (open cmd and type "pip install pyttsx3")
+4. Install wikipedia (open cmd and type "pip install wikipedia")
+
+
 Things Jarvis can do for you.
 1. Wish you 
 2. Tell you current time (use command "Jarvis what's the time")
